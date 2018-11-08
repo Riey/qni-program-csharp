@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2018.2/system/resharper-host/local/Transient/ReSharperHost/v182/SolutionCaches/_Qni.-1308341307.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Qni.Core" t="IncludeRecursive">
+        <e p="Qni.Core.csproj" t="IncludeRecursive" />
+        <e p="QniCollectedException.cs" t="Include" />
+        <e p="QniContext.cs" t="Include" />
+        <e p="QniHub.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Qni.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Qni.Core.Native" t="IncludeRecursive">
+        <e p="Qni.Core.Native.csproj" t="IncludeRecursive" />
+        <e p="QniCoreLib.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Qni.Core.Native.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Qni.Program.Simple" t="IncludeRecursive">
+        <e p="Qni.Program.Simple.csproj" t="IncludeRecursive" />
+        <e p="QniProgramSimple.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Qni.Program.Simple.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Qni.Program.Simple.Native" t="IncludeRecursive">
+        <e p="Qni.Program.Simple.Native.csproj" t="IncludeRecursive" />
+        <e p="QniProgramSimpleLib.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="Qni.Program.Simple.Native.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Qni.Sample.Sum.NetCore" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="Qni.Sample.Sum.NetCore.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="Qni.Sample.Sum.NetCore.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Qni.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
